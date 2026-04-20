@@ -9,8 +9,8 @@ Welcome to chaos, **redefined.**
 ### Get started with the world
 To get started, you gonna have to check the following repositories:
 
-- [Platform Manifest](https://www.github.com/chaoticOS/platform_manifest)
-- [Platform Vendor](https://www.github.com/chaoticOS/platform_vendor_chaotic)  
+- [Platform Manifest](https://github.com/chaoticOS/platform_manifest)
+- [Platform Vendor](https://github.com/chaoticOS/platform_vendor_chaotic)  
 
 Now that we mentioned the important repositories, now go commit chaos, have you done it already? Okay, good, If not, well, you may ask in our [Telegram](https://rscape_chat.t.me/), ~~we may or may not answer.~~
 <details>
